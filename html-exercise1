@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Dwayne Brock</title>
+  </head>
+  
+  <body>
+
+    <div id="mainspace">
+      <h1><span style=color:red>THIS IS MY WEBPAGE</span></h1>
+
+      <p>My name is <strong>Dwayne Brock</strong>. <em>This is my webpage</em></p>
+
+      <p>I am interested in many computer skills. These may include:</p>
+
+      <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Video_game"  target="_blank">video game making</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Web_page"  target="_blank">webpage making</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Web_application"  target="_blank">web app making</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Burp_Suite"  target="_blank">web security</a></li>
+      </ul>
+
+    </div>
+  
+  </body>
+</html>
